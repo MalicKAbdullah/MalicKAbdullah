@@ -4,7 +4,7 @@ But wait, there's more! 😎🔍 I've got a huge crush on all things cybersecuri
 
 I'm a firm believer in the magic of innovation and the power of teamwork! 🌟🤝 I'm always up for thrilling projects that challenge my creative thinking and allow me to leave a positive impact on the digital universe! 💡🌌
 
-Looking to connect with passionate tech enthusiasts, SEO wizards, and fellow cybersecurity enthusiasts! 🤗🌈 Drop me a message if you wanna geek out together or discuss the latest tech buzz! 💌🤓 Let's shape a brighter, safer, and more exciting digital future! 🌈🚀💪
+Looking to connect with passionate tech enthusiasts, SEO wizards, and fellow cybersecurity enthusiasts! 🤗 Drop me a message if you wanna geek out together or discuss the latest tech buzz! 💌🤓 Let's shape a brighter, safer, and more exciting digital future! 🚀💪
 
 - 📫 How to reach me?
     Gmail: mabdullahmalik119@gmail.com
