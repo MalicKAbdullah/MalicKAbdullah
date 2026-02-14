@@ -1,46 +1,70 @@
 # Muhammad Abdullah Malik  
-**AI & Backend Systems Engineer**
+## AI & Backend Systems Engineer  
 
-I build production-grade AI systems and scalable backend architectures, with a focus on healthcare automation and large language model workflows.
+I architect production-grade AI systems and scalable backend infrastructures, specializing in healthcare automation and high-performance LLM workflows.  
 
-My work centers around:
-- LLM-powered document intelligence
-- Structured clinical data extraction
-- High-performance Python microservices
-- Real-time distributed systems
-- ML model deployment in production environments
+My work operates at the intersection of intelligent document processing and real-time distributed systems.
 
 ---
 
-## 🧠 Technical Focus
+## ⚙️ Core Specialization
 
-### AI & Machine Learning
-LLMs, TensorFlow, PyTorch, OpenCV, Scikit-learn  
-Multiclass classification, regression, computer vision pipelines
+### Generative AI & LLMs
+Engineering Python-based microservices for:
+- Document intelligence
+- Automated reporting
+- Structured clinical data extraction
 
-### Backend Engineering
-Python (FastAPI, Flask, Django)  
-Node.js (NestJS)  
-.NET  
-RESTful API design  
-Microservices architecture
+### Backend Architecture
+Designing robust, scalable services using:
+- FastAPI
+- Django
+- Node.js (NestJS)
 
 ### Real-Time Systems
-WebSockets, SignalR, Socket.io
+Implementing low-latency communication through:
+- WebSockets
+- SignalR
+- Socket.io
 
-### Databases & DevOps
-PostgreSQL, MongoDB, MySQL  
-Docker, Git, Jenkins
+### Computer Vision
+Building high-accuracy detection pipelines using:
+- PyTorch
+- OpenCV
+- ResNet architectures
 
 ---
 
-## 🔬 Selected Projects
+## 🔬 Featured Implementations
 
-### Connectify
-Real-time organizational communication platform with WebSocket messaging and ML-based content moderation.
+### Connectify | Real-Time Communication
+A cross-platform organizational ecosystem integrating:
+- WebSockets for instant messaging  
+- Deep learning-based content moderation to filter internal traffic  
 
-### Face Blur
-Live video face detection and anonymization using PyTorch and ResNet (99% detection accuracy).
+### Face Blur | Computer Vision
+A high-performance neural network system for real-time face detection and anonymization in live video feeds, achieving **99% detection accuracy** using PyTorch.
 
-### BloodNet
-Real-time donor-recipient matching system with SignalR-based instant notifications.
+### BloodNet | Distributed Messaging
+A real-time web application utilizing SignalR to synchronize blood donors and recipients with instant notification workflows.
+
+---
+
+## 🚀 Professional Snapshot
+
+- **Software Engineer — DocNow EHR**  
+  Building AI-powered healthcare workflows and optimizing microservice architectures.
+
+- **BS Software Engineering — PUCIT**  
+  CGPA: **3.82 / 4.0**
+
+- **Impact**  
+  Automated complex reporting workflows, reducing manual overhead by **60%** in production healthcare environments.
+
+---
+
+## 📬 Connect & Collaborate
+
+- **LinkedIn:** https://linkedin.com/in/abmalic01  
+- **Email:** mabdullahmalik119@gmail.com  
+- **Location:** Lahore, Pakistan
