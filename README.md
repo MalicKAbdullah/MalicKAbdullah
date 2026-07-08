@@ -8,6 +8,7 @@
 
 **Production AI · scalable backends · privacy-first software — built in the open.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdullah--malik.vercel.app-ff5c35?style=flat-square&logo=vercel&logoColor=white)](https://abdullah-malik.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abmalic01-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abmalic01)
 [![GitHub](https://img.shields.io/badge/GitHub-MalicKAbdullah-eceae4?style=flat-square&logo=github)](https://github.com/MalicKAbdullah)
 [![Email](https://img.shields.io/badge/Email-say%20hello-ff5c35?style=flat-square&logo=gmail&logoColor=white)](mailto:mabdullahmalik119@gmail.com)
@@ -73,6 +74,6 @@ Privacy Engineering   ·  AES-256-GCM · Argon2id · offline-first, on-device en
 
 I'm open to work and collaboration in **AI, backend, and privacy-focused engineering**.
 
-- 💼 [LinkedIn](https://linkedin.com/in/abmalic01) · 📫 [mabdullahmalik119@gmail.com](mailto:mabdullahmalik119@gmail.com)
+- 🌐 [Portfolio](https://abdullah-malik.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/abmalic01) · 📫 [mabdullahmalik119@gmail.com](mailto:mabdullahmalik119@gmail.com)
 
 <div align="center"><sub>Built with care · privacy-first · open source</sub></div>
