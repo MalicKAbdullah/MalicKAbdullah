@@ -61,12 +61,13 @@ Privacy Engineering   ·  AES-256-GCM · Argon2id · offline-first, on-device en
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub
+## 📊 On GitHub
 
 <div align="center">
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalicKAbdullah&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=ff5c35&icon_color=ff5c35&text_color=a1a1aa&ring_color=ff5c35)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalicKAbdullah&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=ff5c35&text_color=a1a1aa)
+[![Follow](https://img.shields.io/github/followers/MalicKAbdullah?style=for-the-badge&logo=github&label=Follow&color=ff5c35&labelColor=0a0a0b)](https://github.com/MalicKAbdullah)
+[![Secure Suite](https://img.shields.io/badge/Secure_Suite-open_source-34d399?style=for-the-badge&labelColor=0a0a0b)](https://github.com/MalicKAbdullah?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Live-Portfolio-818cf8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0b)](https://abdullah-malik.vercel.app)
 
 </div>
 
