@@ -44,7 +44,7 @@ Privacy Engineering   ·  AES-256-GCM · Argon2id · offline-first, on-device en
 | 💊 [**DoseWise**](https://github.com/MalicKAbdullah/dosewise) | Medication tracker | Take/Skip from notifications · adherence analytics · family profiles |
 | 📄 [**Ledgerly**](https://github.com/MalicKAbdullah/ledgerly) | Freelance invoicing | Pro PDF invoices · payments & expenses · recurring & estimates |
 | 📓 [**Reflect**](https://github.com/MalicKAbdullah/reflect) | Encrypted journal | PIN/biometric lock · full-text search · encrypted photos |
-| 🔒 [**Latchly**](https://github.com/MalicKAbdullah/latchly) | App lock (Android) | Lock any app behind PIN/biometric · focus schedules · intruder log |
+| 🔒 [**OpenLock**](https://github.com/MalicKAbdullah/openlock) | App lock (Android) | Lock any app behind PIN/biometric · uninstall protection · focus schedules |
 | 🛡️ [**secure-suite-core**](https://github.com/MalicKAbdullah/secure-suite-core) | Shared foundation | AES-256-GCM · Argon2id · design system · fully tested |
 
 ## 🛠️ Tech Stack
